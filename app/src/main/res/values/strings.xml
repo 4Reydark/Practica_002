@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica_002 reivan</string>
+    <string name="txt_welcome">Welcome to Android Studio App Development!</string>
+    <string name="imagen_logo">deitel bug logo</string>
+</resources>
